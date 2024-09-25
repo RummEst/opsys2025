@@ -2,7 +2,7 @@
 
   
 **Sisukord:**  
-  [3.1 Partitsioneerimine]()  
+  [3.1 Partitsioneerimine](#31-partitsioneerimine)  
   3.2 Linuxi LVM-partitsioonide seadistamine  
   3.3 Ubuntu paigaldus  
   3.4 Linux versioonid  
