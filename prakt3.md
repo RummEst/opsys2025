@@ -48,10 +48,20 @@
 
 ## 3.3 Ubuntu paigaldus
 
-- ![image](https://github.com/user-attachments/assets/5e25ef67-7b9a-4fdb-a78e-8454daee6e0c)
-- ![image](https://github.com/user-attachments/assets/d20ef206-4285-4c6e-909b-3d8950f31f0f)
+- Installimine
+     ![image](https://github.com/user-attachments/assets/5e25ef67-7b9a-4fdb-a78e-8454daee6e0c)
+     ![image](https://github.com/user-attachments/assets/d20ef206-4285-4c6e-909b-3d8950f31f0f)
+  - Valmis.
+      ![image](https://github.com/user-attachments/assets/72cdaaef-804f-4a05-bbfc-4993276eb390)
 
 
-1. `ls`
+- Paigaldan Ubuntusse VirtualBoxi draiverid.
+    ![image](https://github.com/user-attachments/assets/acacbbd0-d14d-4169-98e1-fa21527a00c0)
+
+# Extra pildid esitamiseks.
+
+> Lubuntu + screenfetch
+> 
+
 
 
