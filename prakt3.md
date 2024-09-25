@@ -1,12 +1,11 @@
 # Praktikum 3 - Ubuntu paigaldus ja LVM seadistus  
 
   
-**Sisukord:**  
+###  **Sisukord:**  
   [3.1 Partitsioneerimine](#31-partitsioneerimine)  
-  3.2 Linuxi LVM-partitsioonide seadistamine  
-  3.3 Ubuntu paigaldus  
-  3.4 Linux versioonid  
-  Extra pildid esitamiseks.  
+  [3.2 Linuxi LVM-partitsioonide seadistamine](#32-linuxi-lvm-partitsioonide-seadistamine)  
+  [3.3 Ubuntu paigaldus](#33-ubuntu-paigaldus)   
+  [**Extra pildid esitamiseks.**](#extra-pildid-esitamiseks)  
   
 ## 3.1 Partitsioneerimine
 
