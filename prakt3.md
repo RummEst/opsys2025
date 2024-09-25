@@ -2,10 +2,11 @@
 
   
 **Sisukord:**  
-  3.1 Partitsioneerimine  
+  [3.1 Partitsioneerimine]()  
   3.2 Linuxi LVM-partitsioonide seadistamine  
   3.3 Ubuntu paigaldus  
   3.4 Linux versioonid  
+  Extra pildid esitamiseks.  
   
 ## 3.1 Partitsioneerimine
 
@@ -60,8 +61,23 @@
 
 # Extra pildid esitamiseks.
 
-> Lubuntu + screenfetch
-> 
+> **Lubuntu + screenfetch**
+> ![image](https://github.com/user-attachments/assets/84bcf1f1-d131-42b4-aa96-6dcf07db379b)  
+  
+> **LVM-partitsiooni suurendamine**
+> ![image](https://github.com/user-attachments/assets/9c95b476-7f54-461d-bf42-8546e7bc9937)  
+
+> **sudo vgdisplay, sudo lvdisplay - Ei tööta?**
+> ![image](https://github.com/user-attachments/assets/b3d51b70-fe38-497b-b89e-26cb970fbdd2)  
+
+> **lsblk & df -h**
+> ![image](https://github.com/user-attachments/assets/47b7435a-d292-4193-bde9-ed8285cb6838)
+> ![image](https://github.com/user-attachments/assets/e1d73379-e26e-47f4-8929-bd698c6d72e3)  
+
+
+
+
+
 
 
 
