@@ -8,7 +8,6 @@
 ![image](https://github.com/user-attachments/assets/37a392d9-72ea-4d23-b19f-c9f487bc55b7)
 
 ## 6-3
-ps -axu | grep daemon
-ps -axu | grep snap
+![image](https://github.com/user-attachments/assets/46999490-8d38-4873-81b1-f5d7b9042374)
 
 ## 6-4
