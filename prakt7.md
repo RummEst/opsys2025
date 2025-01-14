@@ -13,8 +13,8 @@ Usaldusväärsus – salvestab partitsioonitabeli koopiaid ja kasutab veakontrol
 ## 7-4
 
 ## 7-5
--o ro == Read only 
--t auto == Automatic file system detection
+-o ro == Read only  
+-t auto == Automatic file system detection  
 
 ## 7-6 
 NTFS
