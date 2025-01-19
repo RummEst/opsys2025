@@ -1,0 +1,71 @@
+﻿Masina nimi: DESKTOP-BNM67JH
+PowerShelli versioon: 5.1.26100.2161
+Windowsi versioon: 10.0.26100
+
+Võrgu konfiguratsioon:
+
+AdapterName IPAddress     SubnetMask Gateway     DHCPEnabled MACAddress       
+----------- ---------     ---------- -------     ----------- ----------       
+Ethernet 5  192.168.56.1          24                         0A-00-27-00-00-13
+Wi-Fi       192.168.1.141         24 192.168.1.1             2C-7B-A0-E2-55-EA
+
+
+
+
+Protsessor: 
+RAM kokku: 15.47GB
+
+Graafikakaardi info:
+
+Name              DriverVersion DriverDate            Resolution
+----              ------------- ----------            ----------
+Intel(R) Graphics 32.0.101.6127 10/11/2024 3:00:00 AM 1920x1200 
+
+
+
+
+Kõvaketaste info:
+
+Drive TotalSpaceGB FreeSpaceGB
+----- ------------ -----------
+C:          475.28      129.79
+
+
+
+
+PCI-seadmed:
+
+
+Arvutis olevad kasutajad:
+
+Name               Description                                                                               
+----               -----------                                                                               
+Administrator      Built-in account for administering the computer/domain                                    
+DefaultAccount     A user account managed by the system.                                                     
+Guest              Built-in account for guest access to the computer/domain                                  
+WDAGUtilityAccount A user account managed and used by the system for Windows Defender Application Guard sc...
+
+
+
+
+Käimasolevate protsesside arv: 296
+
+10 viimasena käivitatud protsessi:
+
+Name              Id StartTime           
+----              -- ---------           
+audiodg         5900 1/19/2025 1:04:53 PM
+chrome         26120 1/19/2025 1:04:38 PM
+chrome           992 1/19/2025 1:04:38 PM
+chrome         22716 1/19/2025 1:04:38 PM
+chrome         16704 1/19/2025 1:04:38 PM
+chrome          5152 1/19/2025 1:04:36 PM
+powershell_ise 26600 1/19/2025 1:04:32 PM
+RuntimeBroker   9320 1/19/2025 1:04:29 PM
+Notepad         7904 1/19/2025 1:04:13 PM
+Notepad        24052 1/19/2025 1:04:13 PM
+
+
+
+
+Arvuti kuupäev ja kellaaeg: 01/19/2025 13:05:01
