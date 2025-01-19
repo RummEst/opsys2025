@@ -1,5 +1,6 @@
 # Praktikum 13 - Skriptimine Windowsis
-
+[Skript (osinfo.ps1)](/prakt13/osinfo.ps1)  
+[Tulemus (ComputerInfo.txt)](/prakt13/ComputerInfo.txt)  
 
 # Iseseisev ülesanne - PS Skript:
 ```ps
