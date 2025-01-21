@@ -72,25 +72,19 @@ echo "Valmis!"
 ```bash
 #!/bin/bash
 
-# Kontrollime, kas protsessi nimi on argumendina antud
 if [ $# -ne 1 ]; then
     echo "Kasutamine: $0 <protsessi_nimi>"
     exit 1
 fi
 
-# Salvestame otsitava protsessi nime
 protsessi_nimi=$1
 
-# Muudame eraldajaks rea vahetuse
 IFS=$'\n'
 
-# Läbime käsu `ps -A` väljundi rida-realt
 for line in $(ps -A); do
-    # Lisame rea algusesse tühiku, eemaldame korduvad tühikud ja võtame PID ja nime
     pid=$(echo " $line" | tr -s ' ' | cut -d ' ' -f2)
     nimi=$(echo " $line" | tr -s ' ' | cut -d ' ' -f5)
 
-    # Kui nime väli vastab otsitavale nimele, väljastame tulemuse
     if [ "$nimi" = "$protsessi_nimi" ]; then
         echo "PID: $pid, Nimi: $nimi"
     fi
@@ -131,7 +125,9 @@ tsükliline_astendamine() {
     echo $tulemus
 }
 
-# Arvutame 9^5 mõlema funktsiooni abil
+
+
+# Arvutame 9^5
 alus=9
 aste=5
 
