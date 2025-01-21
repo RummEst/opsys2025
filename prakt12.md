@@ -137,3 +137,7 @@ echo "Tsükliline: $(tsükliline_astendamine $alus $aste)"
 ```
 ![image](https://github.com/user-attachments/assets/bc197eda-5a5c-4298-a242-9715062e568b)
 
+## AI skript.
+![{90BF3B88-664F-4683-A422-5F6C12647BED}](https://github.com/user-attachments/assets/24a06f3c-cd78-445f-b5de-81fb04fed9e3)
+
+
