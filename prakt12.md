@@ -90,7 +90,8 @@ for line in $(ps -A); do
     fi
 done
 ```
-img  
+![image](https://github.com/user-attachments/assets/28bb8256-6979-4c0e-bdab-b5c397fc5788)
+  
 
 ## 4. Skript (astendamine.sh)  
 
@@ -134,3 +135,5 @@ aste=5
 echo "Rekursiivne: $(rekursiivne_astendamine $alus $aste)"
 echo "Tsükliline: $(tsükliline_astendamine $alus $aste)"
 ```
+![image](https://github.com/user-attachments/assets/bc197eda-5a5c-4298-a242-9715062e568b)
+
