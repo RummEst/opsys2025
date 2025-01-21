@@ -63,3 +63,6 @@ done
 
 echo "Valmis!"
 ```
+![image](https://github.com/user-attachments/assets/931774e0-ddf0-4be2-a1c8-97c6415931a2)  
+
+
